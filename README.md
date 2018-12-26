@@ -16,3 +16,6 @@ On the server side will shown like this:
 - $ python3 trusting_server.py <br>
 waiting for connection... <br>
 ...connected from:  ('127.0.0.1', 42760)
+
+The data will saved on data.txt with format like this:
+- {"id": "1", "age": "25", "name": "John Doe"}
